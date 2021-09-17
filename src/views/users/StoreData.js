@@ -1,0 +1,58 @@
+const StoreData = [
+ 
+    {SlNo: 1, Name: 'Hotel Casino ',Address:'India',
+    Type:'PartnerVendor',Email:'Myabc123@gmail.com',
+     Address:'Mysuru',Mobile:'9638520147',
+     Orders:'567',Discount:'20',
+     Date:'9/9/2021',
+     Status:'Open',
+     Blocking_Reason:'ytre reason',
+     Unblocking_Suggestion:'abc Suggesation',
+     Description:'This is for testing please ignore',
+     Blocking_Date:'22/12/2020',
+     DL_NO:'KA12132432',
+     Requested_Date:"12/22/2020",
+     City:"Mysuru",
+     Area:"Saraswathipuram",
+     Rider:"Shabaz",
+     Payment_For:"Tip",
+     Amount:"5000",
+     Order_Number:"1234",
+     User_Type:"Merchant / Vendor",
+     User:"Empire Restraunt",
+     Review_Given_by:"Azlan",
+     Title:"Testing Review",
+     Average_Ratings:4.5,
+
+
+    },
+    {SlNo: 2, Name: 'Empire Restraunt',Address:'India',
+    Type:'NonPartnerVendor',Email:'shabaz@gmail.com',
+     Address:'Mysuru',Mobile:'9638520147',
+     Orders:'56',Discount:'10',
+    Date:'9/9/2021',
+     Status:'Closed', 
+     Blocking_Reason:'ytre reason',
+     Unblocking_Suggestion:'abc Suggesation',
+     Description:'This is for testing please ignore',
+     Blocking_Date:'22/12/2020',
+     DL_NO:'KA12132432',
+     Requested_Date:"12/22/2020",
+     City:"Mysuru",
+     Area:"Saraswathipuram",
+     Rider:"Uzma",
+     Payment_For:"Delivery Charges",
+     Amount:"420",
+     Order_Number:"56985",
+     User_Type:"Rider",
+     User:"Shabaz",
+     Review_Given_by:"Azlan",
+     Title:"Testing Review",
+     Average_Ratings:3.5,
+    },
+     
+  ]
+  
+  export default StoreData
+  
+  
