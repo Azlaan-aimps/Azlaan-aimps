@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/demo/Demo.js"],"names":["AddNewCoupons"],"mappings":"wIAAA,wBAOeA,UANO,WAClB,OAEI","file":"static/js/136.fb141d22.chunk.js","sourcesContent":["import React from 'react';\r\nconst AddNewCoupons = () => {\r\n    return(\r\n\r\n        <h1>hello</h1>\r\n    )\r\n}\r\nexport default AddNewCoupons"],"sourceRoot":""}

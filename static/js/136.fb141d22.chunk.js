@@ -1,0 +1,2 @@
+(this.webpackJsonptaabedar_admin_dashboard=this.webpackJsonptaabedar_admin_dashboard||[]).push([[136],{920:function(a,t,d){"use strict";d.r(t);d(1);var e=d(29);t.default=function(){return Object(e.jsx)("h1",{children:"hello"})}}}]);
+//# sourceMappingURL=136.fb141d22.chunk.js.map
